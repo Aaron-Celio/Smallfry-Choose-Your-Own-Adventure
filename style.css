@@ -1,0 +1,62 @@
+
+body {
+    text-align: center;
+  background-color: black;
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+  color:white;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
+
+
+
+.option-one-screen{
+  display:none;
+}
+
+
+ 
+.option-two-screen{
+   display:none;
+}
+
+
+ 
+.option-one-end{
+  display:none;
+}
+
+
+.option-two-end{
+   display:none;
+}
+
+
